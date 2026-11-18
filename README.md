@@ -11,6 +11,8 @@
 
 Welcome to your Remotion project!
 
+**Brand (Danova Digital, Bilaastore, Tivity): lihat [BRANDS.md](BRANDS.md) untuk aturan folder.**
+
 ## Commands
 
 **Install Dependencies**
